@@ -13,6 +13,6 @@ I am currently a B.Tech Electronics and Communication student<br>learning Machin
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=24f3004677&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=24f3004677&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
