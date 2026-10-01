@@ -1,15 +1,37 @@
-# 💫 About Me:
-I am currently a B.Tech Electronics and Communication student<br>learning Machine Learning, Deep Learning, NLP, Embedded System, IOT<br>Building projects to boost my performance by 10X<br>
+# Sohamdip Santra
 
+**Full-Stack App developer, AI-Engineer, Data-Scientist**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohamdip-santra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamdipsantra2023@gmail.com) 
+📍 Kolkata
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+### About me
 
+I am an engineering student with hands on experience through projects. Have profound knowledge in **Machine Learning**, **Deep Learning**, **Data Science**, **Full stack web development** ,**Analog Communication**, **Circuit Design and Analysis** etc. \
+Currently learning **Natural language Processing(NLP)**, **Digital Signal Processing(DSP)**, **Digital Communication**.
 
----
+### What I'm working on
 
+- Building a **Full Stack Edge AI** based offline early prediction and monitoring system for Coal Mine under **Ministry of Coal India**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech stack
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-555555?style=flat) ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white) ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![bash-scripting](https://img.shields.io/badge/bash--scripting-555555?style=flat)
+
+### Featured projects
+
+| Project | What it does | ★ |
+| --- | --- | --- |
+| [**Team-Cephalic**](https://github.com/24f3004677/Team-Cephalic) | Real-time structural subsidence detection for underground coal mines using Edge AI, ESP-NOW sensor networks, and a full-stack web dashboard. | 4 |
+| [**-Lock-Multi-level-Text-Encoder-Decoder**](https://github.com/24f3004677/-Lock-Multi-level-Text-Encoder-Decoder) | A compact, terminal-based encryption tool that encodes and decodes text using multiple random base transformations (bases 2–16). Packaged as a single Windows executable so testers can run it without installing Python. | 1 |
+| [**-Pharma-Scout-Agent**](https://github.com/24f3004677/-Pharma-Scout-Agent) | The Pharma-Scout Agent is an AI-powered system that uses Gemini Vision (OCR) to read prescriptions, then employs a Hybrid Price Oracle (Scrape + AI Estimation) to calculate the cheapest total purchase cost across vendors, providing instant, actionable savings. · _Jupyter Notebook_ | 1 |
+
+### GitHub stats
+
+<!-- Stats cards are rendered by third-party services (github-readme-stats, streak-stats), not by GitHub. -->
+<p>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=24f3004677&show_icons=true&hide_border=true" />
+</p>
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamdip-santra/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohamdipsantra2023@gmail.com)
