@@ -1,12 +1,12 @@
 # Sohamdip Santra
 
-**Full-Stack App developer, AI-Engineer, Data-Scientist**
+**Full-Stack App developer, AI-Engineer, Data-Scientist**,**Electronics And Communication Engg** and **Robotics Enthusiast**
 
 📍 Kolkata
 
 ### About me
 
-I am an engineering student with hands on experience through projects. Have profound knowledge in **Machine Learning**, **Deep Learning**, **Data Science**, **Full stack web development** ,**Analog Communication**, **Circuit Design and Analysis** etc. \
+I am an engineering student with hands on experience through projects. Have profound knowledge in **Machine Learning**, **Deep Learning**, **Data Science**, **Full stack web development** ,**Analog Communication**, **Circuit Design and Analysis**, **MicroProcessors & Controllers** etc. \
 Currently learning **Natural language Processing(NLP)**, **Digital Signal Processing(DSP)**, **Digital Communication**.
 
 ### What I'm working on
